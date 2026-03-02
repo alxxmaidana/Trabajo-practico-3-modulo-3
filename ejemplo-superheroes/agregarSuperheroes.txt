@@ -1,0 +1,54 @@
+[
+    {
+        "id": 4,
+        "nombreSuperheroe": "Nebulon",
+        "nombreReal": "Kael Vortex",
+        "nombreSociedad": "Guardián Galáctico",
+        "edad": 320,
+        "planetaOrigen": "Zyphora",
+        "debilidad": "Campos magnéticos intensos",
+        "poder": ["Manipulación de energía cósmica", "Teletransportación", "Vuelo", "Escudos de plasma"],
+        "habilidadEspecial": "Absorción estelar",
+        "aliado": ["Lumina"],
+        "enemigo": ["Dr. Vacuus"]
+    },
+    {
+        "id": 5,
+        "nombreSuperheroe": "AquaStrike",
+        "nombreReal": "Marina Tide",
+        "nombreSociedad": "Protectora Oceánica",
+        "edad": 28,
+        "planetaOrigen": "Tierra",
+        "debilidad": "Ambientes áridos",
+        "poder": ["Control del agua", "Respiración subacuática", "Velocidad acuática", "Hidroquinesis"],
+        "habilidadEspecial": "Invocación de tsunamis",
+        "aliado": ["Nebulon"],
+        "enemigo": ["Pyron"]
+    },
+    {
+        "id": 6,
+        "nombreSuperheroe": "Pyron",
+        "nombreReal": "Darius Flame",
+        "nombreSociedad": "Mutante",
+        "edad": 35,
+        "planetaOrigen": "Tierra",
+        "debilidad": "Temperaturas bajo cero",
+        "poder": ["Manipulación del fuego", "Inmunidad térmica", "Explosiones ígneas"],
+        "habilidadEspecial": "Tormenta de fuego",
+        "aliado": ["Dr. Vacuus"],
+        "enemigo": ["AquaStrike"]
+    },
+    {
+        "id": 7,
+        "nombreSuperheroe": "Lumina",
+        "nombreReal": "Elara Shine",
+        "nombreSociedad": "Entidad de Luz",
+        "edad": 150,
+        "planetaOrigen": "Luminis",
+        "debilidad": "Oscuridad absoluta",
+        "poder": ["Manipulación de luz", "Invisibilidad", "Velocidad lumínica", "Rayos fotónicos"],
+        "habilidadEspecial": "Curación energética",
+        "aliado": ["Nebulon"],
+        "enemigo": ["Dr. Vacuus"]
+    }
+]
