@@ -72,7 +72,6 @@ curl "http://localhost:3000/profile?edad=30"
 
 # Respuesta
 Edad del perfil: 30
-```
 
 El servidor estará disponible en `http://localhost:3000`
 
