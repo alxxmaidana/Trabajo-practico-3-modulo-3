@@ -10,46 +10,21 @@ Este proyecto contiene actividades prácticas relacionadas con:
 
 ---
 
-## 📁 Estructura del Proyecto
-
-```
-Trabajo-practico-3-modulo-3/
-├── Actividad-1/
-│   ├── package.json
-│   └── server.mjs
-├── Actividad-2/
-│   ├── package.json
-│   └── server.mjs
-├── ejemplo-servidor-basico/
-│   ├── app.js
-│   └── package.json
-├── ejemplo-superheroes/
-│   ├── agregarSuperheroes.txt
-│   ├── index.mjs
-│   ├── superheroes.txt
-│   └── utils.mjs
-└── README.md
-```
-
----
-
 ## 🚀 Actividades
 
 ### Actividad 1: Parámetros de Ruta
 
-**Ubicación:** `Actividad-1/`
-
-Una API REST que demuestra el uso de **parámetros de ruta dinámicos** en Express.
+Demuestra el uso de **parámetros de ruta dinámicos** en Express.
 
 **Ruta disponible:**
 - `GET /user/:id` - Retorna el perfil de un usuario según su ID
 
 **Ejemplo de uso:**
 
-# Solicitud
+### Solicitud
 curl http://localhost:3000/user/123
 
-# Respuesta
+### Respuesta
 Perfil del usuario con ID: 123
 
 El servidor estará disponible en `http://localhost:3000`
@@ -58,9 +33,9 @@ El servidor estará disponible en `http://localhost:3000`
 
 ### Actividad 2: Parámetros de Consulta
 
-**Ubicación:** `Actividad-2/`
+**Ubicación:** 
 
-Una API REST que demuestra el uso de **parámetros de consulta** (query parameters) en Express.
+Demuestra el uso de **parámetros de consulta** (query parameters) en Express.
 
 **Ruta disponible:**
 - `GET /profile?edad=<valor>` - Retorna el perfil con la edad especificada
@@ -77,7 +52,7 @@ El servidor estará disponible en `http://localhost:3000`
 
 ---
 
-## 💡 Ejemplos
+## Ejemplos
 
 ### Ejemplo: Servidor Básico
 
@@ -105,7 +80,3 @@ Todas las actividades y ejemplos usan las siguientes dependencias:
 
 - **Express.js** - Framework web para Node.js
 - **Node.js File System (fs)** - Módulo nativo para manejo de archivos
-
----
-
-**Fecha:** 2 de marzo de 2026
