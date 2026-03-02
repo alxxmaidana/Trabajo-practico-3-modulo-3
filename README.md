@@ -42,10 +42,10 @@ Demuestra el uso de **parámetros de consulta** (query parameters) en Express.
 
 **Ejemplo de uso:**
 
-# Solicitud
+### Solicitud
 curl "http://localhost:3000/profile?edad=30"
 
-# Respuesta
+### Respuesta
 Edad del perfil: 30
 
 El servidor estará disponible en `http://localhost:3000`
